@@ -41,3 +41,6 @@ Acknowledgments
 This project is part of an assignment and is based on the Belly Button Biodiversity dataset.
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+References
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
